@@ -1,0 +1,10 @@
+E:\Programming\CSharp\Cosmos\Cosmos\bin\Debug\netcoreapp2.0\cosmos\Cosmos.deps.json
+E:\Programming\CSharp\Cosmos\Cosmos\bin\Debug\netcoreapp2.0\cosmos\Cosmos.dll
+E:\Programming\CSharp\Cosmos\Cosmos\bin\Debug\netcoreapp2.0\cosmos\Cosmos.pdb
+E:\Programming\CSharp\Cosmos\Cosmos\obj\Debug\netcoreapp2.0\cosmos\Cosmos.csproj.AssemblyReference.cache
+E:\Programming\CSharp\Cosmos\Cosmos\obj\Debug\netcoreapp2.0\cosmos\Cosmos.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\CSharp\Cosmos\Cosmos\obj\Debug\netcoreapp2.0\cosmos\Cosmos.AssemblyInfoInputs.cache
+E:\Programming\CSharp\Cosmos\Cosmos\obj\Debug\netcoreapp2.0\cosmos\Cosmos.AssemblyInfo.cs
+E:\Programming\CSharp\Cosmos\Cosmos\obj\Debug\netcoreapp2.0\cosmos\Cosmos.csproj.CoreCompileInputs.cache
+E:\Programming\CSharp\Cosmos\Cosmos\obj\Debug\netcoreapp2.0\cosmos\Cosmos.dll
+E:\Programming\CSharp\Cosmos\Cosmos\obj\Debug\netcoreapp2.0\cosmos\Cosmos.pdb
