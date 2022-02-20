@@ -26,7 +26,7 @@ namespace CosmosKernel
                 Console.WriteLine("==========================================================================");
                 Console.WriteLine("-- u/SimpleText -- For Simple_Text;");
                 Console.WriteLine("-- u/Ver -- For Version of Operating System;");
-		        Console.WriteLine("-- u/about -- Information of OS");
+		Console.WriteLine("-- u/about -- Information of OS");
                 Console.WriteLine("-- u/sysf -- System files");
                 Console.WriteLine("-- Reboot: -- Press Ctrl + alt + del");
                 Console.WriteLine("-- u/cls -- Clear terminal.");
@@ -75,7 +75,7 @@ namespace CosmosKernel
                 Console.WriteLine("==========================================================================");
                 Console.WriteLine("-- u/SimpleText -- For Simple_Text;");
                 Console.WriteLine("-- u/Ver -- For Version of Operating System;");
-		        Console.WriteLine("-- u/about -- Information of OS");
+		Console.WriteLine("-- u/about -- Information of OS");
                 Console.WriteLine("-- u/sysf -- System files");
                 Console.WriteLine("-- Reboot: -- Press Ctrl + alt + del");
                 Console.WriteLine("-- u/cls -- Clear terminal.");
@@ -147,17 +147,17 @@ namespace CosmosKernel
             {
                 Console.Clear();
             }
-			if (input == "u/about") 
-			{	
-				double V = 0.1;
-				Console.ForegroundColor = ConsoleColor.Blue;
-				Console.WriteLine("About - Information");
-				Console.ResetColor();
-				Console.ForegroundColor = ConsoleColor.White;
-				Console.WriteLine("MX360 Version: " + V + " Beta");
-				Console.WriteLine("Created in C# with Cosmos");
-				Console.WriteLine("Type help or ?, for help.");
-			}
+	    if (input == "u/about") 
+	    {	
+		double V = 0.1;
+		Console.ForegroundColor = ConsoleColor.Blue;
+		Console.WriteLine("About - Information");
+		Console.ResetColor();
+		Console.ForegroundColor = ConsoleColor.White;
+		Console.WriteLine("MX360 Version: " + V + " Beta");
+		Console.WriteLine("Created in C# with Cosmos");
+		Console.WriteLine("Type help or ?, for help.");
+	    }
             if (input == "[u/]Sekretka[2077]") 
             {
                 Console.ForegroundColor = ConsoleColor.Red;
