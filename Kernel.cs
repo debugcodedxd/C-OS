@@ -215,9 +215,9 @@ namespace CosmosKernel
                 Console.ResetColor();
             }
             if (input == "u/Color.reset")
-	        {
-		    Console.ResetColor();
-	        }
+	    {
+		 Console.ResetColor();
+	    }
             if (input == "#nr /cmd$/cmd.run/SimpleText.*/$run")
             {
                 Console.WriteLine("Simple_Text");
